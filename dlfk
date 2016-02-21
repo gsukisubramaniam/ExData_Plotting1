@@ -1,0 +1,29 @@
+[33mcommit 9697d1197f1a19e452220fc4fab5705323568611[m
+Author: gsukisubramaniam <gsukisubramaniam@gmail.com>
+Date:   Wed Feb 17 07:43:39 2016 +0530
+
+    Removed the large Data files
+
+[33mcommit f49db392e46dae482bf6bf0bc9fe4ff534e4ff6a[m
+Author: gsukisubramaniam <gsukisubramaniam@gmail.com>
+Date:   Wed Feb 17 07:04:18 2016 +0530
+
+    Initial Commit adding the Data, 1st R file and 1st Plot
+
+[33mcommit 73fe5c675a2db951b302bfd68524bf7a56094d46[m
+Author: Roger D. Peng [amelia] <rdpeng@gmail.com>
+Date:   Tue Feb 25 10:51:05 2014 -0500
+
+    Forgot to add figures to repo
+
+[33mcommit 3edfc828f063ecc7c71a99705da11d7018b9829c[m
+Author: Roger D. Peng [amelia] <rdpeng@gmail.com>
+Date:   Sun Feb 9 00:09:52 2014 -0500
+
+    Update README with instructions
+
+[33mcommit 3b620f79004fcd6f0560ec59e6a7cb8f134a9fdd[m
+Author: Roger D. Peng <rdpeng@gmail.com>
+Date:   Sat Feb 8 19:37:01 2014 -0800
+
+    Initial commit
